@@ -1,8 +1,8 @@
 [
     [
-        "C:\\Users\\craig\\Application Data\\Salesforce IDE\\workspace\\VIADev\\force-app",
+        "C:\\Users\\craig\\IdeaProjects\\VIADev\\force-app",
         {
-            "sourcePath": "C:\\Users\\craig\\Application Data\\Salesforce IDE\\workspace\\VIADev\\force-app",
+            "sourcePath": "C:\\Users\\craig\\IdeaProjects\\VIADev\\force-app",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1488332282127,
@@ -15,9 +15,9 @@
         }
     ],
     [
-        "C:\\Users\\craig\\Application Data\\Salesforce IDE\\workspace\\VIADev\\force-app\\main",
+        "C:\\Users\\craig\\IdeaProjects\\VIADev\\force-app\\main",
         {
-            "sourcePath": "C:\\Users\\craig\\Application Data\\Salesforce IDE\\workspace\\VIADev\\force-app\\main",
+            "sourcePath": "C:\\Users\\craig\\IdeaProjects\\VIADev\\force-app\\main",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1488320713302,
@@ -30,24 +30,22 @@
         }
     ],
     [
-        "C:\\Users\\craig\\Application Data\\Salesforce IDE\\workspace\\VIADev\\force-app\\main\\default",
+        "C:\\Users\\craig\\IdeaProjects\\VIADev\\force-app\\main\\default",
         {
-            "sourcePath": "C:\\Users\\craig\\Application Data\\Salesforce IDE\\workspace\\VIADev\\force-app\\main\\default",
+            "sourcePath": "C:\\Users\\craig\\IdeaProjects\\VIADev\\force-app\\main\\default",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1488325050236,
-            "changeTime": 1488325050236,
-            "contentHash": "7f279383fce4fd0c4fa97a2d20b89440ca87d278",
+            "modifiedTime": 1488391822008,
+            "changeTime": 1488391822008,
+            "contentHash": "727ea36017d1890f38fee3d90b22c3568b2013c3",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u"
         }
     ],
     [
-        "C:\\Users\\craig\\Application Data\\Salesforce IDE\\workspace\\VIADev\\force-app\\main\\default\\DistrictContactEdit.page",
+        "C:\\Users\\craig\\IdeaProjects\\VIADev\\force-app\\main\\default\\DistrictContactEdit.page",
         {
-            "sourcePath": "C:\\Users\\craig\\Application Data\\Salesforce IDE\\workspace\\VIADev\\force-app\\main\\default\\DistrictContactEdit.page",
+            "sourcePath": "C:\\Users\\craig\\IdeaProjects\\VIADev\\force-app\\main\\default\\DistrictContactEdit.page",
             "isDirectory": false,
             "size": 3709,
             "modifiedTime": 1488328138729,
@@ -59,9 +57,9 @@
         }
     ],
     [
-        "C:\\Users\\craig\\Application Data\\Salesforce IDE\\workspace\\VIADev\\force-app\\main\\default\\DistrictContactEdit.page-meta.xml",
+        "C:\\Users\\craig\\IdeaProjects\\VIADev\\force-app\\main\\default\\DistrictContactEdit.page-meta.xml",
         {
-            "sourcePath": "C:\\Users\\craig\\Application Data\\Salesforce IDE\\workspace\\VIADev\\force-app\\main\\default\\DistrictContactEdit.page-meta.xml",
+            "sourcePath": "C:\\Users\\craig\\IdeaProjects\\VIADev\\force-app\\main\\default\\DistrictContactEdit.page-meta.xml",
             "isDirectory": false,
             "size": 206,
             "modifiedTime": 1488321085187,
@@ -74,9 +72,9 @@
         }
     ],
     [
-        "C:\\Users\\craig\\Application Data\\Salesforce IDE\\workspace\\VIADev\\force-app\\main\\default\\DistrictContactExtension.cls",
+        "C:\\Users\\craig\\IdeaProjects\\VIADev\\force-app\\main\\default\\DistrictContactExtension.cls",
         {
-            "sourcePath": "C:\\Users\\craig\\Application Data\\Salesforce IDE\\workspace\\VIADev\\force-app\\main\\default\\DistrictContactExtension.cls",
+            "sourcePath": "C:\\Users\\craig\\IdeaProjects\\VIADev\\force-app\\main\\default\\DistrictContactExtension.cls",
             "isDirectory": false,
             "size": 1648,
             "modifiedTime": 1488332249538,
@@ -88,9 +86,9 @@
         }
     ],
     [
-        "C:\\Users\\craig\\Application Data\\Salesforce IDE\\workspace\\VIADev\\force-app\\main\\default\\DistrictContactExtension.cls-meta.xml",
+        "C:\\Users\\craig\\IdeaProjects\\VIADev\\force-app\\main\\default\\DistrictContactExtension.cls-meta.xml",
         {
-            "sourcePath": "C:\\Users\\craig\\Application Data\\Salesforce IDE\\workspace\\VIADev\\force-app\\main\\default\\DistrictContactExtension.cls-meta.xml",
+            "sourcePath": "C:\\Users\\craig\\IdeaProjects\\VIADev\\force-app\\main\\default\\DistrictContactExtension.cls-meta.xml",
             "isDirectory": false,
             "size": 202,
             "modifiedTime": 1488320937386,
@@ -103,23 +101,23 @@
         }
     ],
     [
-        "C:\\Users\\craig\\Application Data\\Salesforce IDE\\workspace\\VIADev\\force-app\\main\\default\\DistrictContactExtension_Test.cls",
+        "C:\\Users\\craig\\IdeaProjects\\VIADev\\force-app\\main\\default\\DistrictContactExtension_Test.cls",
         {
-            "state": "u",
-            "sourcePath": "C:\\Users\\craig\\Application Data\\Salesforce IDE\\workspace\\VIADev\\force-app\\main\\default\\DistrictContactExtension_Test.cls",
+            "sourcePath": "C:\\Users\\craig\\IdeaProjects\\VIADev\\force-app\\main\\default\\DistrictContactExtension_Test.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1766,
             "modifiedTime": 1488334539790,
             "changeTime": 1488334539790,
-            "isWorkspace": false,
-            "contentHash": "250af7996e53f60423b4a895733a4cd6e88d5142"
+            "contentHash": "250af7996e53f60423b4a895733a4cd6e88d5142",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
-        "C:\\Users\\craig\\Application Data\\Salesforce IDE\\workspace\\VIADev\\force-app\\main\\default\\DistrictContactExtension_Test.cls-meta.xml",
+        "C:\\Users\\craig\\IdeaProjects\\VIADev\\force-app\\main\\default\\DistrictContactExtension_Test.cls-meta.xml",
         {
-            "sourcePath": "C:\\Users\\craig\\Application Data\\Salesforce IDE\\workspace\\VIADev\\force-app\\main\\default\\DistrictContactExtension_Test.cls-meta.xml",
+            "sourcePath": "C:\\Users\\craig\\IdeaProjects\\VIADev\\force-app\\main\\default\\DistrictContactExtension_Test.cls-meta.xml",
             "isDirectory": false,
             "size": 207,
             "modifiedTime": 1488321004113,
@@ -132,24 +130,22 @@
         }
     ],
     [
-        "C:\\Users\\craig\\Application Data\\Salesforce IDE\\workspace\\VIADev\\force-app\\main\\default\\District_Contact__c.object-meta.xml",
+        "C:\\Users\\craig\\IdeaProjects\\VIADev\\force-app\\main\\default\\District_Contact__c.object-meta.xml",
         {
-            "sourcePath": "C:\\Users\\craig\\Application Data\\Salesforce IDE\\workspace\\VIADev\\force-app\\main\\default\\District_Contact__c.object-meta.xml",
-            "isDirectory": false,
-            "size": 16189,
-            "modifiedTime": 1488322552600,
-            "changeTime": 1488324793193,
-            "contentHash": "d2f7f1ba94761ff66f5eb3f0b4badb9fdf8bea50",
-            "isMetadataFile": true,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "sourcePath": "C:\\Users\\craig\\IdeaProjects\\VIADev\\force-app\\main\\default\\District_Contact__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 15958,
+            "modifiedTime": 1488391948544,
+            "changeTime": 1488391948544,
+            "contentHash": "e87279adc6677295c285700cf36c82e4c7b8966a"
         }
     ],
     [
-        "C:\\Users\\craig\\Application Data\\Salesforce IDE\\workspace\\VIADev\\force-app\\main\\default\\globalValueSets",
+        "C:\\Users\\craig\\IdeaProjects\\VIADev\\force-app\\main\\default\\globalValueSets",
         {
-            "sourcePath": "C:\\Users\\craig\\Application Data\\Salesforce IDE\\workspace\\VIADev\\force-app\\main\\default\\globalValueSets",
+            "sourcePath": "C:\\Users\\craig\\IdeaProjects\\VIADev\\force-app\\main\\default\\globalValueSets",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1488322682312,
@@ -162,9 +158,9 @@
         }
     ],
     [
-        "C:\\Users\\craig\\Application Data\\Salesforce IDE\\workspace\\VIADev\\force-app\\main\\default\\globalValueSets\\School_District.globalValueSet-meta.xml",
+        "C:\\Users\\craig\\IdeaProjects\\VIADev\\force-app\\main\\default\\globalValueSets\\School_District.globalValueSet-meta.xml",
         {
-            "sourcePath": "C:\\Users\\craig\\Application Data\\Salesforce IDE\\workspace\\VIADev\\force-app\\main\\default\\globalValueSets\\School_District.globalValueSet-meta.xml",
+            "sourcePath": "C:\\Users\\craig\\IdeaProjects\\VIADev\\force-app\\main\\default\\globalValueSets\\School_District.globalValueSet-meta.xml",
             "isDirectory": false,
             "size": 2360,
             "modifiedTime": 1488322682313,
@@ -177,9 +173,9 @@
         }
     ],
     [
-        "C:\\Users\\craig\\Application Data\\Salesforce IDE\\workspace\\VIADev\\force-app\\main\\default\\staticresources",
+        "C:\\Users\\craig\\IdeaProjects\\VIADev\\force-app\\main\\default\\staticresources",
         {
-            "sourcePath": "C:\\Users\\craig\\Application Data\\Salesforce IDE\\workspace\\VIADev\\force-app\\main\\default\\staticresources",
+            "sourcePath": "C:\\Users\\craig\\IdeaProjects\\VIADev\\force-app\\main\\default\\staticresources",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1488324529935,
@@ -192,9 +188,9 @@
         }
     ],
     [
-        "C:\\Users\\craig\\Application Data\\Salesforce IDE\\workspace\\VIADev\\force-app\\main\\default\\staticresources\\InviscidGeneralJSFunctions.resource",
+        "C:\\Users\\craig\\IdeaProjects\\VIADev\\force-app\\main\\default\\staticresources\\InviscidGeneralJSFunctions.resource",
         {
-            "sourcePath": "C:\\Users\\craig\\Application Data\\Salesforce IDE\\workspace\\VIADev\\force-app\\main\\default\\staticresources\\InviscidGeneralJSFunctions.resource",
+            "sourcePath": "C:\\Users\\craig\\IdeaProjects\\VIADev\\force-app\\main\\default\\staticresources\\InviscidGeneralJSFunctions.resource",
             "isDirectory": false,
             "size": 4335,
             "modifiedTime": 1488324529930,
@@ -207,9 +203,9 @@
         }
     ],
     [
-        "C:\\Users\\craig\\Application Data\\Salesforce IDE\\workspace\\VIADev\\force-app\\main\\default\\staticresources\\InviscidGeneralJSFunctions.resource-meta.xml",
+        "C:\\Users\\craig\\IdeaProjects\\VIADev\\force-app\\main\\default\\staticresources\\InviscidGeneralJSFunctions.resource-meta.xml",
         {
-            "sourcePath": "C:\\Users\\craig\\Application Data\\Salesforce IDE\\workspace\\VIADev\\force-app\\main\\default\\staticresources\\InviscidGeneralJSFunctions.resource-meta.xml",
+            "sourcePath": "C:\\Users\\craig\\IdeaProjects\\VIADev\\force-app\\main\\default\\staticresources\\InviscidGeneralJSFunctions.resource-meta.xml",
             "isDirectory": false,
             "size": 219,
             "modifiedTime": 1488324529927,
@@ -222,9 +218,9 @@
         }
     ],
     [
-        "C:\\Users\\craig\\Application Data\\Salesforce IDE\\workspace\\VIADev\\force-app\\main\\default\\staticresources\\PageSaveFunctions.resource",
+        "C:\\Users\\craig\\IdeaProjects\\VIADev\\force-app\\main\\default\\staticresources\\PageSaveFunctions.resource",
         {
-            "sourcePath": "C:\\Users\\craig\\Application Data\\Salesforce IDE\\workspace\\VIADev\\force-app\\main\\default\\staticresources\\PageSaveFunctions.resource",
+            "sourcePath": "C:\\Users\\craig\\IdeaProjects\\VIADev\\force-app\\main\\default\\staticresources\\PageSaveFunctions.resource",
             "isDirectory": false,
             "size": 1709,
             "modifiedTime": 1488324529936,
@@ -237,9 +233,9 @@
         }
     ],
     [
-        "C:\\Users\\craig\\Application Data\\Salesforce IDE\\workspace\\VIADev\\force-app\\main\\default\\staticresources\\PageSaveFunctions.resource-meta.xml",
+        "C:\\Users\\craig\\IdeaProjects\\VIADev\\force-app\\main\\default\\staticresources\\PageSaveFunctions.resource-meta.xml",
         {
-            "sourcePath": "C:\\Users\\craig\\Application Data\\Salesforce IDE\\workspace\\VIADev\\force-app\\main\\default\\staticresources\\PageSaveFunctions.resource-meta.xml",
+            "sourcePath": "C:\\Users\\craig\\IdeaProjects\\VIADev\\force-app\\main\\default\\staticresources\\PageSaveFunctions.resource-meta.xml",
             "isDirectory": false,
             "size": 219,
             "modifiedTime": 1488324529934,
@@ -252,9 +248,9 @@
         }
     ],
     [
-        "C:\\Users\\craig\\Application Data\\Salesforce IDE\\workspace\\VIADev\\force-app\\main\\default\\tabs",
+        "C:\\Users\\craig\\IdeaProjects\\VIADev\\force-app\\main\\default\\tabs",
         {
-            "sourcePath": "C:\\Users\\craig\\Application Data\\Salesforce IDE\\workspace\\VIADev\\force-app\\main\\default\\tabs",
+            "sourcePath": "C:\\Users\\craig\\IdeaProjects\\VIADev\\force-app\\main\\default\\tabs",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1488326873662,
@@ -267,9 +263,9 @@
         }
     ],
     [
-        "C:\\Users\\craig\\Application Data\\Salesforce IDE\\workspace\\VIADev\\force-app\\main\\default\\tabs\\District_Contact__c.tab-meta.xml",
+        "C:\\Users\\craig\\IdeaProjects\\VIADev\\force-app\\main\\default\\tabs\\District_Contact__c.tab-meta.xml",
         {
-            "sourcePath": "C:\\Users\\craig\\Application Data\\Salesforce IDE\\workspace\\VIADev\\force-app\\main\\default\\tabs\\District_Contact__c.tab-meta.xml",
+            "sourcePath": "C:\\Users\\craig\\IdeaProjects\\VIADev\\force-app\\main\\default\\tabs\\District_Contact__c.tab-meta.xml",
             "isDirectory": false,
             "size": 224,
             "modifiedTime": 1488326873663,
@@ -280,9 +276,9 @@
         }
     ],
     [
-        "C:\\Users\\craig\\Application Data\\Salesforce IDE\\workspace\\VIADev",
+        "C:\\Users\\craig\\IdeaProjects\\VIADev",
         {
-            "sourcePath": "C:\\Users\\craig\\Application Data\\Salesforce IDE\\workspace\\VIADev",
+            "sourcePath": "C:\\Users\\craig\\IdeaProjects\\VIADev",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1488320755158,
@@ -292,6 +288,32 @@
             "state": "u",
             "isWorkspace": true,
             "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\craig\\IdeaProjects\\VIADev\\force-app\\main\\default\\layouts\\District_Contact__c-District Contact Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\craig\\IdeaProjects\\VIADev\\force-app\\main\\default\\layouts\\District_Contact__c-District Contact Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 4562,
+            "modifiedTime": 1488391822010,
+            "changeTime": 1488391822010,
+            "contentHash": "919a3e3b15c6063c92ae0987314c4da1e5ebda05",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\craig\\IdeaProjects\\VIADev\\force-app\\main\\default\\layouts",
+        {
+            "sourcePath": "C:\\Users\\craig\\IdeaProjects\\VIADev\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1488391822009,
+            "changeTime": 1488391822009,
+            "contentHash": "d15cbcc06826c513b87658c151b249baf17a76d2",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ]
 ]
