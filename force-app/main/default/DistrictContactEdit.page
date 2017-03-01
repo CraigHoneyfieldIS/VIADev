@@ -1,0 +1,60 @@
+<apex:page standardController="District_Contact__c" tabStyle="District_Contact__c" extensions="DistrictContactExtension">
+    <script type='text/javascript' src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
+    <script type='text/javascript' src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.10.1/jquery-ui.js"></script>
+   
+    <script type="text/javascript" src="{!$Resource.InviscidGeneralJSFunctions}"></script>
+    <script type="text/javascript" src="{!$Resource.PageSaveFunctions}"></script>
+    <apex:form >
+       
+        <apex:actionFunction action="{!Save}" name="saveButtonJS" rerender="Warnings,Buttons" oncomplete="showSave();"/>
+
+        <div class="bPageTitle">
+            <div class="ptBody">
+                <div class="content">
+                    <img src="/s.gif" alt="District Contact"  class="pageTitleIcon" title="District Contact"/>
+                    <h1 class="pageType">District Contact Edit<span  class="titleSeparatingColon">:</span></h1>
+                    <h2 class="pageDescription"><apex:outputText value="{!NewEdit}"/></h2>
+                    <div class="blank">&nbsp;</div>
+                </div>
+            </div>
+        </div>
+
+        <apex:pageBlock id="DistrictContactInformation" mode="Edit">
+            <apex:pageMessages />
+            <apex:pageBlockButtons id="Buttons">
+                <apex:commandButton id="butSaveButton" value="Save" onclick="hideSave();return false;"/>
+                <apex:commandButton value="Cancel" action="{!Cancel}"/>
+            </apex:pageBlockButtons>
+
+            <apex:pageBlockSection title="Warnings" id="Warnings" columns="1">
+                <apex:pageMessages />
+                <apex:outputLabel style="color:red" value="{!Warnings}"/>
+            </apex:pageBlockSection>
+		
+            <apex:pageBlockSection columns="2" title="Information">
+                <apex:inputField value="{!District_Contact__c.First_Name__c}" required="true" taborderhint="4"/>
+                <apex:inputField value="{!District_Contact__c.Last_Name__c}" required="true" taborderhint="6"/>
+                <apex:inputField value="{!District_Contact__c.School_District__c}" taborderhint="12"/>
+                <apex:inputField value="{!District_Contact__c.Role__c}" taborderhint="12"/>
+            </apex:pageBlockSection>
+            <apex:pageBlockSection columns="2" title="Address">
+                <apex:inputField value="{!District_Contact__c.Address_1__c}" taborderhint="17"/>
+                <apex:inputField value="{!District_Contact__c.Address_2__c}" taborderhint="23"/>
+                <apex:inputField value="{!District_Contact__c.City__c}" taborderhint="19"/>
+                <apex:inputField value="{!District_Contact__c.State__c}" taborderhint="25"/>
+                <apex:inputField value="{!District_Contact__c.Zip_Code__c}" taborderhint="21"/>
+            </apex:pageBlockSection>
+            <apex:pageBlockSection columns="2" title="Phone/Email/Fax">
+                <apex:inputField value="{!District_Contact__c.Phone__c}" taborderhint="27"/>
+                <apex:inputField value="{!District_Contact__c.Fax__c}" taborderhint="27"/>
+                <apex:inputField value="{!District_Contact__c.Email__c}" taborderhint="36"/>
+                <apex:outputLabel ></apex:outputLabel>
+                <apex:outputLabel ></apex:outputLabel>
+            </apex:pageBlockSection>
+             <!-- Hidden Fields -->
+            <apex:outputPanel style="display:none">
+                <apex:inputField value="{!District_Contact__c.Name}"/> 
+            </apex:outputPanel>
+        </apex:pageBlock>
+    </apex:form>
+</apex:page>
